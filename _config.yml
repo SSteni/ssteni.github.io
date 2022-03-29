@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Steni Sebastian"
-  avatar : "/assets/images/IMG_4505.HEIC"
+  avatar : "/assets/images/steni_pic.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
