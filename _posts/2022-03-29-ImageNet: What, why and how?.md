@@ -46,12 +46,12 @@ The usefulness of the ImageNet hierarchy is illustrated by a simple object class
   
 ImageNet can be extended to provide additional information about each image. One such information is the spatial extent of the objects in each image. For training, a robust object detection algorithm often needs localized objects in different poses and under different viewpoints. Having localized objects in cluttered scenes enables users to use ImageNet as a benchmark dataset for object localization algorithms.
 
-#### Future Work
+**Future Work**
   
 ImageNet is a central resource for a broad range of vision-related research. For the computer vision community in particular, and the possible applications include:
-* A training resource
-* A benchmark dataset
-* Introducing new semantic relations for visual modelling.
-* To advance human vision research.
+- A training resource
+- A benchmark dataset
+- Introducing new semantic relations for visual modelling.
+- To advance human vision research.
   
 </p>
