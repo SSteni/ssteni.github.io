@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Steni Sebastian"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "As a data scientist and physicist, I have come to realize that the search for success in this chaotic world is akin to the search for the perfect formula - a journey of endless discovery, experimentation, and refinement, where the only constant is the pursuit of knowledge and the joy of exploration."
+  bio    : "Magic"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
